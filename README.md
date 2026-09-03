@@ -5,7 +5,7 @@
   <tr>
     <td align="center"><strong>42</strong><br /><sub>PRs</sub></td>
     <td align="center"><strong>7</strong><br /><sub>MERGED</sub></td>
-    <td align="center"><strong>30</strong><br /><sub>OPEN</sub></td>
+    <td align="center"><strong>29</strong><br /><sub>OPEN</sub></td>
     <td align="center"><strong>30</strong><br /><sub>REPOSITORIES</sub></td>
   </tr>
 </table>
