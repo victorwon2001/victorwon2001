@@ -1,6 +1,6 @@
 <!-- SIGNAL_CARD:START -->
 <p align="center">
-  <img src="./assets/signal.svg?v=6a6e935b19f656de" width="100%" alt="Current public upstream contribution signal" />
+  <img src="./assets/signal.svg?v=f1e89c742fdc715c" width="100%" alt="Current public upstream contribution signal" />
 </p>
 <!-- SIGNAL_CARD:END -->
 
@@ -18,6 +18,11 @@
   <tbody>
     <tr>
       <td><a href="https://github.com/nyakang/nyaterm"><strong>nyakang/nyaterm</strong></a></td>
+      <td align="center"><a href="https://github.com/nyakang/nyaterm/pull/581"><code>#581</code></a></td>
+      <td align="right"><sub>04 SEP 2026</sub></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/nyakang/nyaterm"><strong>nyakang/nyaterm</strong></a></td>
       <td align="center"><a href="https://github.com/nyakang/nyaterm/pull/574"><code>#574</code></a></td>
       <td align="right"><sub>04 SEP 2026</sub></td>
     </tr>
@@ -30,11 +35,6 @@
       <td><a href="https://github.com/nyakang/nyaterm"><strong>nyakang/nyaterm</strong></a></td>
       <td align="center"><a href="https://github.com/nyakang/nyaterm/pull/573"><code>#573</code></a></td>
       <td align="right"><sub>04 SEP 2026</sub></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/nyakang/nyaterm"><strong>nyakang/nyaterm</strong></a></td>
-      <td align="center"><a href="https://github.com/nyakang/nyaterm/pull/570"><code>#570</code></a></td>
-      <td align="right"><sub>03 SEP 2026</sub></td>
     </tr>
   </tbody>
 </table>
