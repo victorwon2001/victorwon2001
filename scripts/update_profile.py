@@ -116,12 +116,12 @@ def recent_table(items: list[dict[str, Any]]) -> str:
             "    </tr>"
         )
 
-    return """<table width="100%">
+    return """<table>
   <thead>
     <tr>
-      <th align="left" width="60%"><sub>REPOSITORY</sub></th>
-      <th align="center" width="20%"><sub>PULL REQUEST</sub></th>
-      <th align="right" width="20%"><sub>MERGED</sub></th>
+      <th align="left"><sub>REPOSITORY</sub></th>
+      <th align="center"><sub>PULL REQUEST</sub></th>
+      <th align="right"><sub>MERGED</sub></th>
     </tr>
   </thead>
   <tbody>
