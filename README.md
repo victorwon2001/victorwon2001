@@ -1,21 +1,41 @@
-## Upstream signal
+<!-- SIGNAL_CARD:START -->
+<p align="center">
+  <img src="./assets/signal.svg?v=8680956d9c33a1c6" width="100%" alt="Current public upstream contribution signal" />
+</p>
+<!-- SIGNAL_CARD:END -->
 
-<!-- UPSTREAM_SIGNAL:START -->
-<table>
-  <tr>
-    <td align="center"><strong>49</strong><br /><sub>PRs</sub></td>
-    <td align="center"><strong>8</strong><br /><sub>MERGED</sub></td>
-    <td align="center"><strong>33</strong><br /><sub>OPEN</sub></td>
-    <td align="center"><strong>32</strong><br /><sub>REPOSITORIES</sub></td>
-  </tr>
-</table>
-<!-- UPSTREAM_SIGNAL:END -->
-
-## Recently merged
+### Recently merged
 
 <!-- RECENTLY_MERGED:START -->
-- [`nyakang/nyaterm`](https://github.com/nyakang/nyaterm) · [`#573`](https://github.com/nyakang/nyaterm/pull/573) <sub>· 2026-09-04</sub>
-- [`nyakang/nyaterm`](https://github.com/nyakang/nyaterm) · [`#570`](https://github.com/nyakang/nyaterm/pull/570) <sub>· 2026-09-03</sub>
-- [`Hebbian-Robotics/hflow`](https://github.com/Hebbian-Robotics/hflow) · [`#378`](https://github.com/Hebbian-Robotics/hflow/pull/378) <sub>· 2026-09-03</sub>
-- [`nyakang/nyaterm`](https://github.com/nyakang/nyaterm) · [`#566`](https://github.com/nyakang/nyaterm/pull/566) <sub>· 2026-09-03</sub>
+<table>
+  <thead>
+    <tr>
+      <th align="left"><sub>REPOSITORY</sub></th>
+      <th align="center"><sub>PULL REQUEST</sub></th>
+      <th align="right"><sub>MERGED</sub></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/nyakang/nyaterm"><strong>nyakang/nyaterm</strong></a></td>
+      <td align="center"><a href="https://github.com/nyakang/nyaterm/pull/574"><code>#574</code></a></td>
+      <td align="right"><sub>04 SEP 2026</sub></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/fabiolb/fabio"><strong>fabiolb/fabio</strong></a></td>
+      <td align="center"><a href="https://github.com/fabiolb/fabio/pull/1074"><code>#1074</code></a></td>
+      <td align="right"><sub>04 SEP 2026</sub></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/nyakang/nyaterm"><strong>nyakang/nyaterm</strong></a></td>
+      <td align="center"><a href="https://github.com/nyakang/nyaterm/pull/573"><code>#573</code></a></td>
+      <td align="right"><sub>04 SEP 2026</sub></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/nyakang/nyaterm"><strong>nyakang/nyaterm</strong></a></td>
+      <td align="center"><a href="https://github.com/nyakang/nyaterm/pull/570"><code>#570</code></a></td>
+      <td align="right"><sub>03 SEP 2026</sub></td>
+    </tr>
+  </tbody>
+</table>
 <!-- RECENTLY_MERGED:END -->

@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260" role="img" aria-labelledby="title description" data-signature="8680956d9c33a1c6" data-updated="2026-09-04T14:52+09:00">
+  <title id="title">Upstream signal</title>
+  <desc id="description">49 upstream pull requests, 10 merged, 31 open, across 32 repositories. Updated 04 SEP 2026 · 14:52 KST.</desc>
+  <defs>
+    <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0a0c10" />
+      <stop offset="0.58" stop-color="#10141b" />
+      <stop offset="1" stop-color="#0b0e13" />
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#7c5cff" stop-opacity="0.22" />
+      <stop offset="1" stop-color="#7c5cff" stop-opacity="0" />
+    </radialGradient>
+    <linearGradient id="signal" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8b5cf6" />
+      <stop offset="1" stop-color="#22d3ee" />
+    </linearGradient>
+    <clipPath id="frame">
+      <rect x="1" y="1" width="998" height="258" rx="22" />
+    </clipPath>
+    <style>
+      .value { fill: #f4f7fb; font: 650 42px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; letter-spacing: -1.5px; }
+      .label { fill: #7f8998; font: 600 11px ui-monospace, SFMono-Regular, Consolas, monospace; letter-spacing: 1.8px; }
+      .micro { fill: #828b99; font: 600 11px ui-monospace, SFMono-Regular, Consolas, monospace; letter-spacing: 1.7px; }
+    </style>
+  </defs>
+
+  <rect x="1" y="1" width="998" height="258" rx="22" fill="url(#surface)" stroke="#272d37" />
+  <g clip-path="url(#frame)">
+    <ellipse cx="820" cy="-32" rx="330" ry="190" fill="url(#glow)" />
+    <path d="M694 54h36l10-13 16 29 16-47 17 38 12-18 12 11h135" fill="none" stroke="#39414e" stroke-width="1.2" />
+    <path d="M730 54l10-13 16 29 16-47 17 38 12-18 12 11" fill="none" stroke="url(#signal)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" />
+  </g>
+
+  <circle cx="54" cy="49" r="5" fill="#3ddc97" />
+  <circle cx="54" cy="49" r="10" fill="#3ddc97" opacity="0.10" />
+  <text class="micro" x="72" y="53">UPSTREAM SIGNAL</text>
+  <text class="micro" x="948" y="53" text-anchor="end">WINDOW ≤ 5 MIN</text>
+  <line x1="52" y1="86" x2="948" y2="86" stroke="#252b34" />
+
+  <g transform="translate(52 0)">
+    <text class="value" x="0" y="161">49</text>
+    <text class="label" x="1" y="188">PULL REQUESTS</text>
+  </g>
+  <g transform="translate(284 0)">
+    <text class="value" x="0" y="161">10</text>
+    <text class="label" x="1" y="188">MERGED</text>
+  </g>
+  <g transform="translate(516 0)">
+    <text class="value" x="0" y="161">31</text>
+    <text class="label" x="1" y="188">OPEN</text>
+  </g>
+  <g transform="translate(748 0)">
+    <text class="value" x="0" y="161">32</text>
+    <text class="label" x="1" y="188">REPOSITORIES</text>
+  </g>
+
+  <line x1="255" y1="119" x2="255" y2="190" stroke="#242a33" />
+  <line x1="487" y1="119" x2="487" y2="190" stroke="#242a33" />
+  <line x1="719" y1="119" x2="719" y2="190" stroke="#242a33" />
+  <line x1="52" y1="215" x2="948" y2="215" stroke="#252b34" />
+  <text class="micro" x="52" y="239">UPDATED · 04 SEP 2026 · 14:52 KST</text>
+  <text class="micro" x="948" y="239" text-anchor="end">PUBLIC UPSTREAM</text>
+</svg>
