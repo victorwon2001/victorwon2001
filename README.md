@@ -1,6 +1,6 @@
 <!-- SIGNAL_CARD:START -->
 <p align="center">
-  <img src="./assets/signal.svg?v=001e2450882651bb" width="100%" alt="Current public upstream contribution signal" />
+  <img src="./assets/signal.svg?v=c3afa667346542ea" width="100%" alt="Current public upstream contribution signal" />
 </p>
 <!-- SIGNAL_CARD:END -->
 
@@ -17,6 +17,16 @@
   </thead>
   <tbody>
     <tr>
+      <td><a href="https://github.com/agentguard-ai/tealtiger-typescript-prod"><strong>agentguard-ai/tealtiger-typescript-prod</strong></a></td>
+      <td align="center"><a href="https://github.com/agentguard-ai/tealtiger-typescript-prod/pull/35"><code>#35</code></a></td>
+      <td align="right"><sub>07 SEP 2026</sub></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/nyakang/nyaterm"><strong>nyakang/nyaterm</strong></a></td>
+      <td align="center"><a href="https://github.com/nyakang/nyaterm/pull/598"><code>#598</code></a></td>
+      <td align="right"><sub>07 SEP 2026</sub></td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/nyakang/nyaterm"><strong>nyakang/nyaterm</strong></a></td>
       <td align="center"><a href="https://github.com/nyakang/nyaterm/pull/567"><code>#567</code></a></td>
       <td align="right"><sub>06 SEP 2026</sub></td>
@@ -25,16 +35,6 @@
       <td><a href="https://github.com/sipyourdrink-ltd/bernstein"><strong>sipyourdrink-ltd/bernstein</strong></a></td>
       <td align="center"><a href="https://github.com/sipyourdrink-ltd/bernstein/pull/5415"><code>#5415</code></a></td>
       <td align="right"><sub>05 SEP 2026</sub></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/kornia/kornia"><strong>kornia/kornia</strong></a></td>
-      <td align="center"><a href="https://github.com/kornia/kornia/pull/4211"><code>#4211</code></a></td>
-      <td align="right"><sub>05 SEP 2026</sub></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/nyakang/nyaterm"><strong>nyakang/nyaterm</strong></a></td>
-      <td align="center"><a href="https://github.com/nyakang/nyaterm/pull/581"><code>#581</code></a></td>
-      <td align="right"><sub>04 SEP 2026</sub></td>
     </tr>
   </tbody>
 </table>
