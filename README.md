@@ -1,6 +1,6 @@
 <!-- SIGNAL_CARD:START -->
 <p align="center">
-  <img src="./assets/signal.svg?v=2db9653ce466ef8b" width="100%" alt="Current public upstream contribution signal" />
+  <img src="./assets/signal.svg?v=66c0ffb8e56edd41" width="100%" alt="Current public upstream contribution signal" />
 </p>
 <!-- SIGNAL_CARD:END -->
 
