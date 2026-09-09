@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260" role="img" aria-labelledby="title description" data-signature="5410ec0f43065d04" data-updated="2026-09-09T22:53+09:00">
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260" role="img" aria-labelledby="title description" data-signature="2db9653ce466ef8b" data-updated="2026-09-10T02:25+09:00">
   <title id="title">Upstream signal</title>
-  <desc id="description">75 upstream pull requests, 19 merged, 41 open, across 37 repositories. Updated 09 SEP 2026 · 22:53 KST.</desc>
+  <desc id="description">75 upstream pull requests, 23 merged, 41 open, across 37 repositories. Updated 10 SEP 2026 · 02:25 KST.</desc>
   <defs>
     <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#0a0c10" />
@@ -43,7 +43,7 @@
     <text class="label" x="1" y="188">PULL REQUESTS</text>
   </g>
   <g transform="translate(284 0)">
-    <text class="value" x="0" y="161">19</text>
+    <text class="value" x="0" y="161">23</text>
     <text class="label" x="1" y="188">MERGED</text>
   </g>
   <g transform="translate(516 0)">
@@ -59,6 +59,6 @@
   <line x1="487" y1="119" x2="487" y2="190" stroke="#242a33" />
   <line x1="719" y1="119" x2="719" y2="190" stroke="#242a33" />
   <line x1="52" y1="215" x2="948" y2="215" stroke="#252b34" />
-  <text class="micro" x="52" y="239">UPDATED · 09 SEP 2026 · 22:53 KST</text>
+  <text class="micro" x="52" y="239">UPDATED · 10 SEP 2026 · 02:25 KST</text>
   <text class="micro" x="948" y="239" text-anchor="end">PUBLIC UPSTREAM</text>
 </svg>
