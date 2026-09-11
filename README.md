@@ -1,6 +1,6 @@
 <!-- SIGNAL_CARD:START -->
 <p align="center">
-  <img src="./assets/signal.svg?v=b30fb751aff25689" width="100%" alt="Current public upstream contribution signal" />
+  <img src="./assets/signal.svg?v=f084463158b46e3d" width="100%" alt="Current public upstream contribution signal" />
 </p>
 <!-- SIGNAL_CARD:END -->
 
@@ -17,24 +17,24 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/nyakang/nyaterm"><strong>nyakang/nyaterm</strong></a></td>
-      <td align="center"><a href="https://github.com/nyakang/nyaterm/pull/618"><code>#618</code></a></td>
-      <td align="right"><sub>10 SEP 2026</sub></td>
+      <td><a href="https://github.com/kornia/kornia"><strong>kornia/kornia</strong></a></td>
+      <td align="center"><a href="https://github.com/kornia/kornia/pull/4370"><code>#4370</code></a></td>
+      <td align="right"><sub>11 SEP 2026</sub></td>
     </tr>
     <tr>
       <td><a href="https://github.com/nyakang/nyaterm"><strong>nyakang/nyaterm</strong></a></td>
-      <td align="center"><a href="https://github.com/nyakang/nyaterm/pull/606"><code>#606</code></a></td>
-      <td align="right"><sub>10 SEP 2026</sub></td>
+      <td align="center"><a href="https://github.com/nyakang/nyaterm/pull/650"><code>#650</code></a></td>
+      <td align="right"><sub>11 SEP 2026</sub></td>
     </tr>
     <tr>
       <td><a href="https://github.com/nyakang/nyaterm"><strong>nyakang/nyaterm</strong></a></td>
-      <td align="center"><a href="https://github.com/nyakang/nyaterm/pull/622"><code>#622</code></a></td>
-      <td align="right"><sub>09 SEP 2026</sub></td>
+      <td align="center"><a href="https://github.com/nyakang/nyaterm/pull/648"><code>#648</code></a></td>
+      <td align="right"><sub>11 SEP 2026</sub></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/sipyourdrink-ltd/bernstein"><strong>sipyourdrink-ltd/bernstein</strong></a></td>
-      <td align="center"><a href="https://github.com/sipyourdrink-ltd/bernstein/pull/5649"><code>#5649</code></a></td>
-      <td align="right"><sub>08 SEP 2026</sub></td>
+      <td><a href="https://github.com/nyakang/nyaterm"><strong>nyakang/nyaterm</strong></a></td>
+      <td align="center"><a href="https://github.com/nyakang/nyaterm/pull/645"><code>#645</code></a></td>
+      <td align="right"><sub>11 SEP 2026</sub></td>
     </tr>
   </tbody>
 </table>
