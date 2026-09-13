@@ -1,6 +1,6 @@
 <!-- SIGNAL_CARD:START -->
 <p align="center">
-  <img src="./assets/signal.svg?v=4c818e81a771a794" width="100%" alt="Current public upstream contribution signal" />
+  <img src="./assets/signal.svg?v=907baf4ade44ce81" width="100%" alt="Current public upstream contribution signal" />
 </p>
 <!-- SIGNAL_CARD:END -->
 
@@ -17,6 +17,16 @@
   </thead>
   <tbody>
     <tr>
+      <td><a href="https://github.com/kornia/kornia"><strong>kornia/kornia</strong></a></td>
+      <td align="center"><a href="https://github.com/kornia/kornia/pull/4464"><code>#4464</code></a></td>
+      <td align="right"><sub>13 SEP 2026</sub></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/kornia/kornia"><strong>kornia/kornia</strong></a></td>
+      <td align="center"><a href="https://github.com/kornia/kornia/pull/4357"><code>#4357</code></a></td>
+      <td align="right"><sub>13 SEP 2026</sub></td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/nyakang/nyaterm"><strong>nyakang/nyaterm</strong></a></td>
       <td align="center"><a href="https://github.com/nyakang/nyaterm/pull/674"><code>#674</code></a></td>
       <td align="right"><sub>13 SEP 2026</sub></td>
@@ -25,16 +35,6 @@
       <td><a href="https://github.com/nyakang/nyaterm"><strong>nyakang/nyaterm</strong></a></td>
       <td align="center"><a href="https://github.com/nyakang/nyaterm/pull/667"><code>#667</code></a></td>
       <td align="right"><sub>13 SEP 2026</sub></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/nyakang/nyaterm"><strong>nyakang/nyaterm</strong></a></td>
-      <td align="center"><a href="https://github.com/nyakang/nyaterm/pull/666"><code>#666</code></a></td>
-      <td align="right"><sub>13 SEP 2026</sub></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/kornia/kornia"><strong>kornia/kornia</strong></a></td>
-      <td align="center"><a href="https://github.com/kornia/kornia/pull/4450"><code>#4450</code></a></td>
-      <td align="right"><sub>12 SEP 2026</sub></td>
     </tr>
   </tbody>
 </table>
