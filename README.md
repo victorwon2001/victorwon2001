@@ -1,6 +1,6 @@
 <!-- SIGNAL_CARD:START -->
 <p align="center">
-  <img src="./assets/signal.svg?v=2f24cc11baa379a7" width="100%" alt="Current public upstream contribution signal" />
+  <img src="./assets/signal.svg?v=7294caac9ec12464" width="100%" alt="Current public upstream contribution signal" />
 </p>
 <!-- SIGNAL_CARD:END -->
 
@@ -17,6 +17,11 @@
   </thead>
   <tbody>
     <tr>
+      <td><a href="https://github.com/kornia/kornia"><strong>kornia/kornia</strong></a></td>
+      <td align="center"><a href="https://github.com/kornia/kornia/pull/4500"><code>#4500</code></a></td>
+      <td align="right"><sub>14 SEP 2026</sub></td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/nyakang/nyaterm"><strong>nyakang/nyaterm</strong></a></td>
       <td align="center"><a href="https://github.com/nyakang/nyaterm/pull/679"><code>#679</code></a></td>
       <td align="right"><sub>14 SEP 2026</sub></td>
@@ -29,11 +34,6 @@
     <tr>
       <td><a href="https://github.com/kornia/kornia"><strong>kornia/kornia</strong></a></td>
       <td align="center"><a href="https://github.com/kornia/kornia/pull/4357"><code>#4357</code></a></td>
-      <td align="right"><sub>13 SEP 2026</sub></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/nyakang/nyaterm"><strong>nyakang/nyaterm</strong></a></td>
-      <td align="center"><a href="https://github.com/nyakang/nyaterm/pull/674"><code>#674</code></a></td>
       <td align="right"><sub>13 SEP 2026</sub></td>
     </tr>
   </tbody>
