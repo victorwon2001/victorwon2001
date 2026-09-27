@@ -1,6 +1,6 @@
 <!-- SIGNAL_CARD:START -->
 <p align="center">
-  <img src="./assets/signal.svg?v=e4a56ac1a5dab3d5" width="100%" alt="Current public upstream contribution signal" />
+  <img src="./assets/signal.svg?v=e3f0f72ded9de116" width="100%" alt="Current public upstream contribution signal" />
 </p>
 <!-- SIGNAL_CARD:END -->
 
@@ -17,6 +17,11 @@
   </thead>
   <tbody>
     <tr>
+      <td><a href="https://github.com/isair/jarvis"><strong>isair/jarvis</strong></a></td>
+      <td align="center"><a href="https://github.com/isair/jarvis/pull/645"><code>#645</code></a></td>
+      <td align="right"><sub>27 SEP 2026</sub></td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/sipyourdrink-ltd/bernstein"><strong>sipyourdrink-ltd/bernstein</strong></a></td>
       <td align="center"><a href="https://github.com/sipyourdrink-ltd/bernstein/pull/5834"><code>#5834</code></a></td>
       <td align="right"><sub>25 SEP 2026</sub></td>
@@ -30,11 +35,6 @@
       <td><a href="https://github.com/Hebbian-Robotics/hflow"><strong>Hebbian-Robotics/hflow</strong></a></td>
       <td align="center"><a href="https://github.com/Hebbian-Robotics/hflow/pull/601"><code>#601</code></a></td>
       <td align="right"><sub>23 SEP 2026</sub></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Hebbian-Robotics/hflow"><strong>Hebbian-Robotics/hflow</strong></a></td>
-      <td align="center"><a href="https://github.com/Hebbian-Robotics/hflow/pull/595"><code>#595</code></a></td>
-      <td align="right"><sub>22 SEP 2026</sub></td>
     </tr>
   </tbody>
 </table>
