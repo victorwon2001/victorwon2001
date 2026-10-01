@@ -1,6 +1,6 @@
 <!-- SIGNAL_CARD:START -->
 <p align="center">
-  <img src="./assets/signal.svg?v=a1f91ba250f11d1f" width="100%" alt="Current public upstream contribution signal" />
+  <img src="./assets/signal.svg?v=710d8d4e2dd82dc5" width="100%" alt="Current public upstream contribution signal" />
 </p>
 <!-- SIGNAL_CARD:END -->
 
@@ -18,6 +18,11 @@
   <tbody>
     <tr>
       <td><a href="https://github.com/sipyourdrink-ltd/bernstein"><strong>sipyourdrink-ltd/bernstein</strong></a></td>
+      <td align="center"><a href="https://github.com/sipyourdrink-ltd/bernstein/pull/5852"><code>#5852</code></a></td>
+      <td align="right"><sub>01 OCT 2026</sub></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/sipyourdrink-ltd/bernstein"><strong>sipyourdrink-ltd/bernstein</strong></a></td>
       <td align="center"><a href="https://github.com/sipyourdrink-ltd/bernstein/pull/6189"><code>#6189</code></a></td>
       <td align="right"><sub>30 SEP 2026</sub></td>
     </tr>
@@ -30,11 +35,6 @@
       <td><a href="https://github.com/sipyourdrink-ltd/bernstein"><strong>sipyourdrink-ltd/bernstein</strong></a></td>
       <td align="center"><a href="https://github.com/sipyourdrink-ltd/bernstein/pull/5834"><code>#5834</code></a></td>
       <td align="right"><sub>25 SEP 2026</sub></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/sipyourdrink-ltd/bernstein"><strong>sipyourdrink-ltd/bernstein</strong></a></td>
-      <td align="center"><a href="https://github.com/sipyourdrink-ltd/bernstein/pull/5986"><code>#5986</code></a></td>
-      <td align="right"><sub>23 SEP 2026</sub></td>
     </tr>
   </tbody>
 </table>
