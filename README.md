@@ -1,6 +1,6 @@
 <!-- SIGNAL_CARD:START -->
 <p align="center">
-  <img src="./assets/signal.svg?v=7673af509e64932c" width="100%" alt="Current public upstream contribution signal" />
+  <img src="./assets/signal.svg?v=dd8877266536d3a5" width="100%" alt="Current public upstream contribution signal" />
 </p>
 <!-- SIGNAL_CARD:END -->
 
@@ -18,6 +18,11 @@
   <tbody>
     <tr>
       <td><a href="https://github.com/nyakang/nyaterm"><strong>nyakang/nyaterm</strong></a></td>
+      <td align="center"><a href="https://github.com/nyakang/nyaterm/pull/847"><code>#847</code></a></td>
+      <td align="right"><sub>07 OCT 2026</sub></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/nyakang/nyaterm"><strong>nyakang/nyaterm</strong></a></td>
       <td align="center"><a href="https://github.com/nyakang/nyaterm/pull/846"><code>#846</code></a></td>
       <td align="right"><sub>06 OCT 2026</sub></td>
     </tr>
@@ -29,11 +34,6 @@
     <tr>
       <td><a href="https://github.com/nyakang/nyaterm"><strong>nyakang/nyaterm</strong></a></td>
       <td align="center"><a href="https://github.com/nyakang/nyaterm/pull/830"><code>#830</code></a></td>
-      <td align="right"><sub>01 OCT 2026</sub></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/sipyourdrink-ltd/bernstein"><strong>sipyourdrink-ltd/bernstein</strong></a></td>
-      <td align="center"><a href="https://github.com/sipyourdrink-ltd/bernstein/pull/5852"><code>#5852</code></a></td>
       <td align="right"><sub>01 OCT 2026</sub></td>
     </tr>
   </tbody>
