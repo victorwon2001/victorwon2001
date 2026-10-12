@@ -1,6 +1,6 @@
 <!-- SIGNAL_CARD:START -->
 <p align="center">
-  <img src="./assets/signal.svg?v=f295714ec308127f" width="100%" alt="Current public upstream contribution signal" />
+  <img src="./assets/signal.svg?v=09e6c83b8a69cb40" width="100%" alt="Current public upstream contribution signal" />
 </p>
 <!-- SIGNAL_CARD:END -->
 
@@ -18,12 +18,12 @@
   <tbody>
     <tr>
       <td><a href="https://github.com/sipyourdrink-ltd/bernstein"><strong>sipyourdrink-ltd/bernstein</strong></a></td>
-      <td align="center"><a href="https://github.com/sipyourdrink-ltd/bernstein/pull/6436"><code>#6436</code></a></td>
+      <td align="center"><a href="https://github.com/sipyourdrink-ltd/bernstein/pull/6460"><code>#6460</code></a></td>
       <td align="right"><sub>11 OCT 2026</sub></td>
     </tr>
     <tr>
       <td><a href="https://github.com/sipyourdrink-ltd/bernstein"><strong>sipyourdrink-ltd/bernstein</strong></a></td>
-      <td align="center"><a href="https://github.com/sipyourdrink-ltd/bernstein/pull/6460"><code>#6460</code></a></td>
+      <td align="center"><a href="https://github.com/sipyourdrink-ltd/bernstein/pull/6436"><code>#6436</code></a></td>
       <td align="right"><sub>11 OCT 2026</sub></td>
     </tr>
     <tr>
