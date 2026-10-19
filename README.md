@@ -1,6 +1,6 @@
 <!-- SIGNAL_CARD:START -->
 <p align="center">
-  <img src="./assets/signal.svg?v=7134d02d1e1bc425" width="100%" alt="Current public upstream contribution signal" />
+  <img src="./assets/signal.svg?v=becf6176b681fade" width="100%" alt="Current public upstream contribution signal" />
 </p>
 <!-- SIGNAL_CARD:END -->
 
@@ -18,6 +18,11 @@
   <tbody>
     <tr>
       <td><a href="https://github.com/Hebbian-Robotics/hflow"><strong>Hebbian-Robotics/hflow</strong></a></td>
+      <td align="center"><a href="https://github.com/Hebbian-Robotics/hflow/pull/728"><code>#728</code></a></td>
+      <td align="right"><sub>19 OCT 2026</sub></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Hebbian-Robotics/hflow"><strong>Hebbian-Robotics/hflow</strong></a></td>
       <td align="center"><a href="https://github.com/Hebbian-Robotics/hflow/pull/720"><code>#720</code></a></td>
       <td align="right"><sub>18 OCT 2026</sub></td>
     </tr>
@@ -29,11 +34,6 @@
     <tr>
       <td><a href="https://github.com/nyakang/nyaterm"><strong>nyakang/nyaterm</strong></a></td>
       <td align="center"><a href="https://github.com/nyakang/nyaterm/pull/884"><code>#884</code></a></td>
-      <td align="right"><sub>14 OCT 2026</sub></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/tribgames/mixdog"><strong>tribgames/mixdog</strong></a></td>
-      <td align="center"><a href="https://github.com/tribgames/mixdog/pull/69"><code>#69</code></a></td>
       <td align="right"><sub>14 OCT 2026</sub></td>
     </tr>
   </tbody>
