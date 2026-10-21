@@ -1,6 +1,6 @@
 <!-- SIGNAL_CARD:START -->
 <p align="center">
-  <img src="./assets/signal.svg?v=21d43463846dfef3" width="100%" alt="Current public upstream contribution signal" />
+  <img src="./assets/signal.svg?v=4b8aa80c75564c2a" width="100%" alt="Current public upstream contribution signal" />
 </p>
 <!-- SIGNAL_CARD:END -->
 
@@ -18,23 +18,23 @@
   <tbody>
     <tr>
       <td><a href="https://github.com/nyakang/nyaterm"><strong>nyakang/nyaterm</strong></a></td>
-      <td align="center"><a href="https://github.com/nyakang/nyaterm/pull/952"><code>#952</code></a></td>
+      <td align="center"><a href="https://github.com/nyakang/nyaterm/pull/945"><code>#945</code></a></td>
       <td align="right"><sub>21 OCT 2026</sub></td>
     </tr>
     <tr>
       <td><a href="https://github.com/nyakang/nyaterm"><strong>nyakang/nyaterm</strong></a></td>
-      <td align="center"><a href="https://github.com/nyakang/nyaterm/pull/878"><code>#878</code></a></td>
-      <td align="right"><sub>20 OCT 2026</sub></td>
+      <td align="center"><a href="https://github.com/nyakang/nyaterm/pull/947"><code>#947</code></a></td>
+      <td align="right"><sub>21 OCT 2026</sub></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Hebbian-Robotics/hflow"><strong>Hebbian-Robotics/hflow</strong></a></td>
-      <td align="center"><a href="https://github.com/Hebbian-Robotics/hflow/pull/728"><code>#728</code></a></td>
-      <td align="right"><sub>19 OCT 2026</sub></td>
+      <td><a href="https://github.com/nyakang/nyaterm"><strong>nyakang/nyaterm</strong></a></td>
+      <td align="center"><a href="https://github.com/nyakang/nyaterm/pull/948"><code>#948</code></a></td>
+      <td align="right"><sub>21 OCT 2026</sub></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Hebbian-Robotics/hflow"><strong>Hebbian-Robotics/hflow</strong></a></td>
-      <td align="center"><a href="https://github.com/Hebbian-Robotics/hflow/pull/720"><code>#720</code></a></td>
-      <td align="right"><sub>18 OCT 2026</sub></td>
+      <td><a href="https://github.com/nyakang/nyaterm"><strong>nyakang/nyaterm</strong></a></td>
+      <td align="center"><a href="https://github.com/nyakang/nyaterm/pull/952"><code>#952</code></a></td>
+      <td align="right"><sub>21 OCT 2026</sub></td>
     </tr>
   </tbody>
 </table>
