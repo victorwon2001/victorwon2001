@@ -1,6 +1,6 @@
 <!-- SIGNAL_CARD:START -->
 <p align="center">
-  <img src="./assets/signal.svg?v=45bfae9ba17d6843" width="100%" alt="Current public upstream contribution signal" />
+  <img src="./assets/signal.svg?v=d8e74a377ed4937e" width="100%" alt="Current public upstream contribution signal" />
 </p>
 <!-- SIGNAL_CARD:END -->
 
@@ -17,6 +17,11 @@
   </thead>
   <tbody>
     <tr>
+      <td><a href="https://github.com/sqlfluff/sqlfluff"><strong>sqlfluff/sqlfluff</strong></a></td>
+      <td align="center"><a href="https://github.com/sqlfluff/sqlfluff/pull/8796"><code>#8796</code></a></td>
+      <td align="right"><sub>23 OCT 2026</sub></td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/nyakang/nyaterm"><strong>nyakang/nyaterm</strong></a></td>
       <td align="center"><a href="https://github.com/nyakang/nyaterm/pull/945"><code>#945</code></a></td>
       <td align="right"><sub>21 OCT 2026</sub></td>
@@ -29,11 +34,6 @@
     <tr>
       <td><a href="https://github.com/nyakang/nyaterm"><strong>nyakang/nyaterm</strong></a></td>
       <td align="center"><a href="https://github.com/nyakang/nyaterm/pull/948"><code>#948</code></a></td>
-      <td align="right"><sub>21 OCT 2026</sub></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/nyakang/nyaterm"><strong>nyakang/nyaterm</strong></a></td>
-      <td align="center"><a href="https://github.com/nyakang/nyaterm/pull/952"><code>#952</code></a></td>
       <td align="right"><sub>21 OCT 2026</sub></td>
     </tr>
   </tbody>
