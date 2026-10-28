@@ -1,6 +1,6 @@
 <!-- SIGNAL_CARD:START -->
 <p align="center">
-  <img src="./assets/signal.svg?v=9101f15ea25d5cb4" width="100%" alt="Current public upstream contribution signal" />
+  <img src="./assets/signal.svg?v=ac325a4e81384664" width="100%" alt="Current public upstream contribution signal" />
 </p>
 <!-- SIGNAL_CARD:END -->
 
@@ -17,6 +17,11 @@
   </thead>
   <tbody>
     <tr>
+      <td><a href="https://github.com/Hebbian-Robotics/hflow"><strong>Hebbian-Robotics/hflow</strong></a></td>
+      <td align="center"><a href="https://github.com/Hebbian-Robotics/hflow/pull/732"><code>#732</code></a></td>
+      <td align="right"><sub>28 OCT 2026</sub></td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/nyakang/nyaterm"><strong>nyakang/nyaterm</strong></a></td>
       <td align="center"><a href="https://github.com/nyakang/nyaterm/pull/1001"><code>#1001</code></a></td>
       <td align="right"><sub>27 OCT 2026</sub></td>
@@ -30,11 +35,6 @@
       <td><a href="https://github.com/nyakang/nyaterm"><strong>nyakang/nyaterm</strong></a></td>
       <td align="center"><a href="https://github.com/nyakang/nyaterm/pull/992"><code>#992</code></a></td>
       <td align="right"><sub>26 OCT 2026</sub></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/nyakang/nyaterm"><strong>nyakang/nyaterm</strong></a></td>
-      <td align="center"><a href="https://github.com/nyakang/nyaterm/pull/976"><code>#976</code></a></td>
-      <td align="right"><sub>25 OCT 2026</sub></td>
     </tr>
   </tbody>
 </table>
