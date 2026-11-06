@@ -1,6 +1,6 @@
 <!-- SIGNAL_CARD:START -->
 <p align="center">
-  <img src="./assets/signal.svg?v=29974945f4dcacf3" width="100%" alt="Current public upstream contribution signal" />
+  <img src="./assets/signal.svg?v=d3bb54042cd3aec6" width="100%" alt="Current public upstream contribution signal" />
 </p>
 <!-- SIGNAL_CARD:END -->
 
@@ -17,6 +17,16 @@
   </thead>
   <tbody>
     <tr>
+      <td><a href="https://github.com/nyakang/nyaterm"><strong>nyakang/nyaterm</strong></a></td>
+      <td align="center"><a href="https://github.com/nyakang/nyaterm/pull/1033"><code>#1033</code></a></td>
+      <td align="right"><sub>06 NOV 2026</sub></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Hebbian-Robotics/hflow"><strong>Hebbian-Robotics/hflow</strong></a></td>
+      <td align="center"><a href="https://github.com/Hebbian-Robotics/hflow/pull/745"><code>#745</code></a></td>
+      <td align="right"><sub>06 NOV 2026</sub></td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/icloud-photos-downloader/icloud_photos_downloader"><strong>icloud-photos-downloader/icloud_photos_downloader</strong></a></td>
       <td align="center"><a href="https://github.com/icloud-photos-downloader/icloud_photos_downloader/pull/1374"><code>#1374</code></a></td>
       <td align="right"><sub>31 OCT 2026</sub></td>
@@ -25,16 +35,6 @@
       <td><a href="https://github.com/Hebbian-Robotics/hflow"><strong>Hebbian-Robotics/hflow</strong></a></td>
       <td align="center"><a href="https://github.com/Hebbian-Robotics/hflow/pull/732"><code>#732</code></a></td>
       <td align="right"><sub>28 OCT 2026</sub></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/nyakang/nyaterm"><strong>nyakang/nyaterm</strong></a></td>
-      <td align="center"><a href="https://github.com/nyakang/nyaterm/pull/1001"><code>#1001</code></a></td>
-      <td align="right"><sub>27 OCT 2026</sub></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/mikefarah/yq"><strong>mikefarah/yq</strong></a></td>
-      <td align="center"><a href="https://github.com/mikefarah/yq/pull/2907"><code>#2907</code></a></td>
-      <td align="right"><sub>26 OCT 2026</sub></td>
     </tr>
   </tbody>
 </table>
