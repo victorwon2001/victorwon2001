@@ -1,6 +1,6 @@
 <!-- SIGNAL_CARD:START -->
 <p align="center">
-  <img src="./assets/signal.svg?v=e4b5d708b250c9a3" width="100%" alt="Current public upstream contribution signal" />
+  <img src="./assets/signal.svg?v=8feca4d81eeb0aea" width="100%" alt="Current public upstream contribution signal" />
 </p>
 <!-- SIGNAL_CARD:END -->
 
@@ -17,6 +17,11 @@
   </thead>
   <tbody>
     <tr>
+      <td><a href="https://github.com/fabiolb/fabio"><strong>fabiolb/fabio</strong></a></td>
+      <td align="center"><a href="https://github.com/fabiolb/fabio/pull/1083"><code>#1083</code></a></td>
+      <td align="right"><sub>25 NOV 2026</sub></td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/nyakang/nyaterm"><strong>nyakang/nyaterm</strong></a></td>
       <td align="center"><a href="https://github.com/nyakang/nyaterm/pull/1033"><code>#1033</code></a></td>
       <td align="right"><sub>06 NOV 2026</sub></td>
@@ -30,11 +35,6 @@
       <td><a href="https://github.com/icloud-photos-downloader/icloud_photos_downloader"><strong>icloud-photos-downloader/icloud_photos_downloader</strong></a></td>
       <td align="center"><a href="https://github.com/icloud-photos-downloader/icloud_photos_downloader/pull/1374"><code>#1374</code></a></td>
       <td align="right"><sub>31 OCT 2026</sub></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Hebbian-Robotics/hflow"><strong>Hebbian-Robotics/hflow</strong></a></td>
-      <td align="center"><a href="https://github.com/Hebbian-Robotics/hflow/pull/732"><code>#732</code></a></td>
-      <td align="right"><sub>28 OCT 2026</sub></td>
     </tr>
   </tbody>
 </table>
